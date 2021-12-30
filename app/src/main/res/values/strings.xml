@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="text">Click button below!</string>
+    <string name="button">Save!</string>
+    <string name="edit_text_hint">Say something</string>
+    <string name="no_text_key">No text has provided</string>
+</resources>
